@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{B2AF6102-85E3-411C-B742-DEAA28423E86}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hello/ReflectedColorsPage.xaml.cs">
+    <Files>
+      <File FileName="Hello/App.xaml.cs" Line="12" Column="47" />
+      <File FileName="Hello/NamedFontSizesPage.xaml.cs" Line="21" Column="32" />
+      <File FileName="Hello/ReflectedColorsPage.xaml.cs" Line="11" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Hello.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Hello.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.79D7F206-DAFE-472F-A062-8DE65AA35ED9">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Hello.iOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

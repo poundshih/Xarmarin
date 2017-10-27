@@ -1,0 +1,2 @@
+android.app.Application
+ApoDx_Tech.Hello
